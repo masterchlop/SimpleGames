@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438988553636",
+    "project_id": "kolkoikrzyzyk-db8bc",
+    "storage_bucket": "kolkoikrzyzyk-db8bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438988553636:android:e0c9111cf1a7a97a385531",
+        "android_client_info": {
+          "package_name": "com.example.kolkoikrzyzyk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438988553636-26799ncpeqbp3ug6en9jqdsh23ribm63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0w8C8ct31asb2OG-m6UeDypBai0N7_nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438988553636-26799ncpeqbp3ug6en9jqdsh23ribm63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

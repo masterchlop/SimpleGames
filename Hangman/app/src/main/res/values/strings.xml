@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="z">z</string>
+    <string name="y">y</string>
+    <string name="w">w</string>
+    <string name="u">u</string>
+    <string name="t">t</string>
+    <string name="s">s</string>
+    <string name="p">p</string>
+    <string name="o">o</string>
+    <string name="n">n</string>
+    <string name="m">m</string>
+    <string name="l">l</string>
+    <string name="k">k</string>
+    <string name="j">j</string>
+    <string name="i">i</string>
+    <string name="h">h</string>
+    <string name="g">g</string>
+    <string name="f">f</string>
+    <string name="e">e</string>
+    <string name="d">d</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+    <string name="a">a</string>
+    <string name="check">CHECK</string>
+    <string name="r">r</string>
+
+    <string-array name="words">
+        <item>mouse</item>
+        <item>kitchen</item>
+        <item>dog</item>
+        <item>cat</item>
+        <item>police</item>
+        <item>soldier</item>
+        <item>water</item>
+        <item>juice</item>
+    </string-array>
+</resources>
